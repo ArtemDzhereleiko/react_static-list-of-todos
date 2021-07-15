@@ -1,0 +1,2 @@
+.todo{display:grid;grid-template-columns:repeat(5,1fr);grid-gap:10px;width:100%;padding:20px}.todo__item{display:flex;flex-direction:column;padding:10px;background-color:#d3d3d3;border:1px solid #000;border-radius:10px}.complete{background-color:#90ee90}*{box-sizing:border-box}body{margin:0}
+/*# sourceMappingURL=main.3378576f.chunk.css.map */
